@@ -7,7 +7,8 @@ str = "havar"
 print(str.upper())
 print("havar")
 
+
+
 name = input("Your name?")
 print(name.lower())
 # print(greet('Corey'))
-
